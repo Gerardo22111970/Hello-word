@@ -1,2 +1,2 @@
 # Hello-word
-Repositorio de prueba
+Repositorio de prueba con confirmación.
