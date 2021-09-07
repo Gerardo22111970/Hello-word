@@ -1,3 +1,3 @@
 # Hello-word
 Repositorio de prueba
-coniciendo el archivo README.md
+conociendo el archivo README.md
